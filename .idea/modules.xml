@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guli-parent/common/common.iml" filepath="$PROJECT_DIR$/guli-parent/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-parent/common/common-util/common-util.iml" filepath="$PROJECT_DIR$/guli-parent/common/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-parent/guli-parent.iml" filepath="$PROJECT_DIR$/guli-parent/guli-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" filepath="$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/onlineEdu.iml" filepath="$PROJECT_DIR$/.idea/onlineEdu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-parent/service/service.iml" filepath="$PROJECT_DIR$/guli-parent/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-parent/common/service-base/service-base.iml" filepath="$PROJECT_DIR$/guli-parent/common/service-base/service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-parent/service/service-edu/service-edu.iml" filepath="$PROJECT_DIR$/guli-parent/service/service-edu/service-edu.iml" />
+    </modules>
+  </component>
+</project>
